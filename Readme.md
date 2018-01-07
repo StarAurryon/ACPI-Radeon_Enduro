@@ -5,7 +5,7 @@ The instructions and the ACPI code for Linux have been written with the help of 
 - [The ACPI initrd table override documentation;](https://elixir.free-electrons.com/linux/v4.14/source/Documentation/acpi/initrd_table_override.txt)
 - [The radeon module ACPI headers.](https://elixir.free-electrons.com/linux/v4.14/source/drivers/gpu/drm/radeon/radeon_acpi.h)
 
-- The instructions for Microsoft Windows have been written with the help of Microsoft documentation:
+The instructions for Microsoft Windows have been written with the help of Microsoft documentation:
 - [Microsoft ASL compiler.](https://docs.microsoft.com/en-us/windows-hardware/drivers/bringup/microsoft-asl-compiler)
 
 ## System status
