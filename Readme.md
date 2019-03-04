@@ -1,5 +1,7 @@
 # AMD Radeon ACPI Enduro patch
 
+[![MSI GT60 WITH AMD 7970m](http://img.youtube.com/vi/yZrYYQ5fnms/0.jpg)](http://www.youtube.com/watch?v=yZrYYQ5fnms)
+
 ## Source 
 The instructions and the ACPI code for Linux have been written with the help of the Linux kernel source code:
 - [The ACPI initrd table override documentation;](https://elixir.free-electrons.com/linux/v4.14/source/Documentation/acpi/initrd_table_override.txt)
